@@ -1,0 +1,10 @@
+@import './base/reset';
+@import './base/typo';
+
+@import './components/header';
+
+#app {
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
